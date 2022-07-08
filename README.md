@@ -4,7 +4,7 @@
 💞️ I’m looking to collaborate on projects that make use of mathematical concepts.
 📫 How to reach me:
     - Email: mwpmccabe@gmail.com
-    - LinkedIn: https://www.linkedin.com/in/matthew-mccabe-45a15a22b/
+    - LinkedIn: www.linkedin.com/in/matthew-w-p-mccabe
 
 <!---
 FlamegamerEXT/FlamegamerEXT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
